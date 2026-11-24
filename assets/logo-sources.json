@@ -1,0 +1,26 @@
+{
+  "sabanci": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Sabanc%C4%B1_University_logo.svg",
+    "file": "assets/sabanci.svg",
+    "offline": "assets/sabanci-offline.svg"
+  },
+  "microsoft": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+    "file": "assets/microsoft.svg",
+    "offline": "assets/microsoft-offline.svg"
+  },
+  "midas": {
+    "url": "https://cdn.brandfetch.io/idC9MlNShv/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1790171818802",
+    "file": "assets/midas.jpg",
+    "offline": "assets/midas-offline.svg"
+  },
+  "vodafone": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vodafone_logo_2017.svg",
+    "file": "assets/vodafone.svg",
+    "offline": "assets/vodafone-offline.svg"
+  },
+  "dtc": {
+    "url": "https://studentlife.sabanciuniv.edu/sites/clubs.sabanciuniv.edu/files/styles/club_logo/public/kulup/copy-of-dtclogo-deep-tech-club.png?itok=p90kiVJC",
+    "file": "assets/dtc.png"
+  }
+}
